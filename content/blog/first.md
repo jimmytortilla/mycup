@@ -8,4 +8,13 @@ I don't have much to write as this is my first post.
 
 This is just a test.
 
-{{<image url="/mycup/silvertone.png" alt="A nice photo" position="center" />}}
+{{<image url="/mycup/static/silvertone.png" alt="A nice photo" position="center" />}}
+
+OK.  I hope this worked.
+
+Or this.
+
+{{<image url="/mycup/stella.png" alt="A nice photo" position="center" />}}
+
+Who knows?
+
