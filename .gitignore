@@ -1,0 +1,14 @@
+# Zola
+public/
+.zola_cache/
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+
+# Env
+.env
+.env.*
