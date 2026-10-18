@@ -1,6 +1,6 @@
 base_url = "https://jimmytortilla.github.io/mycup/"
 title = "My Cup"
-subtitle = "(-_o)
+subtitle = "(-_o)"
 theme = "catcrew"
 compile_sass = true
 
