@@ -9,4 +9,5 @@ I don't have much to write as this is my first post.
 
 This is just a test.
 
+{{ image(url="silvertone.png", alt="A nice photo", content_path=page.path) }}
 ![A nice photo](silvertone.png)
