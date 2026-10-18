@@ -1,10 +1,10 @@
 base_url = "https://jimmytortilla.github.io/mycup/"
-title = "My Cup ( ^_^)旦"
+title = "My Cup"
 theme = "catcrew"
 compile_sass = true
 
 [extra]
-site_title = "My Cup (n_n)"
+site_title = "My Cup ( ^_^)旦"
 copyright_holder = "Nate Stratton"
 
 header_links = [
