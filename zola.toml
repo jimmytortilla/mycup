@@ -8,21 +8,21 @@ site_title = "My Cup"
 copyright_holder = "Nate Stratton"
 
 header_links = [
-  { name = "home", path = "/" },
-  { name = "about", path = "/about" },
-  { name = "blog", path = "/blog" },
-  { name = "links", path = "/links" },
+  { name = "home", path = "/mycup/" },
+  { name = "about", path = "/mycup/about" },
+  { name = "blog", path = "/mycup/blog" },
+  { name = "links", path = "/mycup/links" },
 ]
 
 footer_links = [
-  { name = "home", path = "/" },
-  { name = "about", path = "/about" },
-  { name = "blog", path = "/blog" },
-  { name = "links", path = "/links" },
+  { name = "home", path = "/mycup/" },
+  { name = "about", path = "/mycup/about" },
+  { name = "blog", path = "/mycup/blog" },
+  { name = "links", path = "/mycup/links" },
 ]
 
 nav_links = [
-  { name = "about", path = "/about" },
-  { name = "blog", path = "/blog" },
-  { name = "links", path = "/links" },
+  { name = "about", path = "/mycup/about" },
+  { name = "blog", path = "/mycup/blog" },
+  { name = "links", path = "/mycup/links" },
 ]
