@@ -8,4 +8,4 @@ I don't have much to write as this is my first post.
 
 This is just a test.
 
-![A nice photo](/mycup/silvertone.png)
+{{ image(url="/mycup/silvertone.png", alt="A nice photo", position="center") }}
