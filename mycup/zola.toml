@@ -1,0 +1,28 @@
+base_url = "https://jimmytortilla.github.io/mycup/"
+title = "My Cup"
+theme = "catcrew"
+compile_sass = true
+
+[extra]
+site_title = "My Cup"
+copyright_holder = "Nate Stratton"
+
+header_links = [
+  { name = "home", path = "/" },
+  { name = "about", path = "/about" },
+  { name = "blog", path = "/blog" },
+  { name = "links", path = "/links" },
+]
+
+footer_links = [
+  { name = "home", path = "/" },
+  { name = "about", path = "/about" },
+  { name = "blog", path = "/blog" },
+  { name = "links", path = "/links" },
+]
+
+nav_links = [
+  { name = "about", path = "/about" },
+  { name = "blog", path = "/blog" },
+  { name = "links", path = "/links" },
+]
