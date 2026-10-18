@@ -1,0 +1,3 @@
+[submodule "mycup/themes/catcrew"]
+	path = mycup/themes/catcrew
+	url = https://git.colorized.life/demo.catcrew.studio.git
