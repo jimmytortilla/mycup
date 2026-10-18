@@ -8,4 +8,4 @@ I don't have much to write as this is my first post.
 
 This is just a test.
 
-<img src="/mycup/silvertone.png" alt="A nice photo" class="post-image">
+<img src="/mycup/silvertone.png" alt="A nice photo" style="display:block; width:min(88%, 24rem); max-width:100%; height:auto; margin:1.5rem auto; border-radius:8px;">
