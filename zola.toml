@@ -4,7 +4,7 @@ theme = "catcrew"
 compile_sass = true
 
 [extra]
-site_title = "( ^_^)旦   My Cup"
+site_title = "My ( ^_^)旦 Cup"
 copyright_holder = "Nate Stratton"
 
 header_links = [
