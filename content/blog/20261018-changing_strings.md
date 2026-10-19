@@ -6,6 +6,8 @@ description = "Singing in the Fog"
 
 Last Night I was changing the strings on an old Silvertone guitar that one of my wonderful big sisters in Christ gave me a while back. It is a very special guitar because it belonged to her late husband. As I was working on it, I was reminded of a time when I still had my hair and surfing and guitars filled my thoughts much more than they do today:
 
+<img src="/mycup/silvertone.png" alt="A nice photo" style="display:block; width:min(88%, 24rem); max-width:100%; height:auto; margin:1.5rem auto; border-radius:8px;">
+
 ## Singing in the Fog
 
 In 1993 and 1994 I lived in the Santa Cruz on the central coast of California. About once a month a group of young people from local churches and led by a pastor from Santa Cruz Bible Church, went down to the seawall area in Santa Cruz and sang praise songs together, often in the fog that so often shows up in that part of the coast after sunset.
@@ -18,6 +20,6 @@ Once the fog rolled in something strange began to happen: Strings would begin to
 
 It seems to me that one night I ended up changing five or six strings on two or three guitars during the evening. Perhaps that does not sound too exciting, but for me it was a huge joy because I got to handle guitars and receive gratitude from musicians.
 
-<img src="/mycup/silvertone.png" alt="A nice photo" style="display:block; width:min(88%, 24rem); max-width:100%; height:auto; margin:1.5rem auto; border-radius:8px;">
+
 
 Until next time.
