@@ -16,7 +16,7 @@ Though I did not really now much about playing the guitar, I was in love with th
 
 Usually there where two or three guitars out with the guys pounding - not strumming but pounding - away and singing songs like "Lord I Lift Your Name on High" or "Make a Joyful Noise". The crowd was usually over a hundred at some point, many of whom were singing joyfully, some of whom were either confused or amused, and some of whom wanted us gone. 
 
-Once the fog rolled in something strange began to happen: Strings would begin to break. The combination of the cold, damp air and the pounding made the strings prone to go *boing*. When I heard that sound, I had to move fast. I would need to get the guitar, pull the old string off, find the right new string, put it on, tighten it, stretch it, tune it, stretch it again, tune it again, and hand it back to the musician. I learned to get all that done in a minute or two before the next string broke.
+Once the fog rolled in something strange began to happen: Strings would begin to break. The combination of the cold, damp air, and the *pounding* made the strings prone to go *boing*. When I heard that sound, I had to move fast. I would need to get the guitar, pull the old string off, find the right new string, put it on, tighten it, stretch it, tune it, stretch it again, tune it again, and hand it back to the musician. I learned to get all that done in a minute or two before the next string broke.
 
 One night I ended up changing five or six strings on two or three guitars. Perhaps that does not sound too exciting, but for me it was a huge joy because I got to handle guitars and receive gratitude from the musicians.
 
