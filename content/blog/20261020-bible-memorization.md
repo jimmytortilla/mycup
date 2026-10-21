@@ -10,7 +10,20 @@ There is a book found online years ago called <u>How to Memorize the Bible: Trai
 
 Over the years, I have started the book and then stopped a number of times - no fault of the book. Once again, I have begun to follow the steps; and this time I hope to stick with it.
 
-So far I have almost committed to memory a list of 100 loosely-related words. Now I get to review them daily for the next month before moving on to the next step :)
+The author gives six "essential" principles for successful memory training.  I am stil working on the first:  
+
+### "Attention, or Fixity of Thought"
+
+The first step of mental exercise is memorizing a long list of words, looking for ways to connect the words. It is not difficult, in and of itself - I have done it before - but it is difficult to continue the drill until it becomes a regular habit. So far I have committed to memory a list of 100 loosely-related words. Now I get to review them daily for the next month before moving on to the next step. 
+
+### The Other Five Essential Principles
+
+*  "A Clear and Definite Conception of the Matter to Be Memorized.
+* "The Analyzing of That Which You Desire to Memorize"
+* "Sugestive Association"
+* "The Power to Recal from Memory What You Have Learned"
+* "The Constant Pracitice of Reviewing"
+
 
 Below are some links if you are interested in checking out this little book.
 
