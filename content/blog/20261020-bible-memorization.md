@@ -4,7 +4,7 @@ date = 2026-10-21
 description = "Trying Again"
 +++
 
-There is a book found online years ago called <u>How to Memorize the Bible: Training the Memory to Learn Holy Scripture</u> by William Evans. It is a small booklet with time-tested steps to improving memory with scripture memorization in mind. The author himself had memorized the entire Bible in the King James Version as well as the New Testament in the American Standard Version!
+There is a book found online years ago called <u>How to Memorize the Bible: Training the Memory to Learn Holy Scripture</u> by William Evans. It is a small booklet with time-tested steps to improving memory with scripture memorization in mind. The author himself had memorized the entire Bible in the King James Version as well as the New Testament in the American Standard Version.
 
 <img src="/mycup/bible_memorization.png" alt="How to Memorize the Bible" style="display:block; width:min(88%, 24rem); max-width:100%; height:auto; margin:1.5rem auto; border-radius:8px;">
 
