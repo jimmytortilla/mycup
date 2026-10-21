@@ -11,7 +11,7 @@ Yes, I know it is a goofy name. For some it may bring to mind the old saying, "T
 
 #### The Story
 
-A number of years ago, not long after my friend had come to Japan, he began working in a public school. As he was brought into the staff room as part of his orientation he was quickly asked by someone *in English*, "Do you have my cup?"
+A number of years ago, not long after my friend had come to Japan, he began working in a public school. When he was brought into the staff room as a part of his orientation, he was quickly asked by someone *in English*, "Do you have my cup?"
 
 You can guess how that probably went:
 
